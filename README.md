@@ -4,7 +4,7 @@
 <p>
 <a href="https://cred.ninja">cred.ninja</a> ·
 <a href="https://kieran.ai">kieran.ai</a> ·
-<a href="https://x.com/kierancalledit">@kierancalledit</a>
+<a href="https://x.com/0xkilroy">@0xkilroy</a>
 </p>
 </div>
 
