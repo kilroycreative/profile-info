@@ -27,7 +27,6 @@ Also building **Obscura**: an authenticated photography registry on testnet.
 | [**deep-loop**](https://github.com/kilroycreative/deep-loop) | Two-tier autonomous ML research: experiments + meta-analysis | Python, Claude Code |
 | **Obscura** | Authenticated photography registry (testnet) | TypeScript |
 | [**0xDrip**](https://kieran.ai) | NFT-gated eyewear. Burn token, get glasses shipped. | Solidity, React |
-| [**OpenClaw**](https://github.com/kilroycreative/openclaw) | Contributing to open-source AI assistant framework | TypeScript |
 
 <!-- AUTOSTATUS:START -->
 <!-- AUTOSTATUS:END -->
@@ -42,4 +41,4 @@ Credential security for autonomous agents. Making AI agents first-class citizens
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kieran3sweeney) [![X](https://img.shields.io/badge/@kierancalledit-000000.svg?logo=X&logoColor=white)](https://x.com/kierancalledit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kieran3sweeney) [![X](https://img.shields.io/badge/@kierancalledit-000000.svg?logo=X&logoColor=white)](https://x.com/0xkilroy)
