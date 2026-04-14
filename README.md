@@ -40,4 +40,4 @@ Credential security for autonomous agents. Making AI agents first-class citizens
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kieran3sweeney) [![X](https://img.shields.io/badge/@kierancalledit-000000.svg?logo=X&logoColor=white)](https://x.com/0xkilroy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kieran3sweeney) [![X](https://img.shields.io/badge/@0xkilroy-000000.svg?logo=X&logoColor=white)](https://x.com/0xkilroy)
