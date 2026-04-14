@@ -25,7 +25,6 @@ Also building **Obscura**: an authenticated photography registry on testnet.
 |---------|-------------|-------|
 | [**Cred SDK**](https://github.com/cred-ninja/sdk) | OAuth2 credential delegation for AI agents | TypeScript, Node.js |
 | [**deep-loop**](https://github.com/kilroycreative/deep-loop) | Two-tier autonomous ML research: experiments + meta-analysis | Python, Claude Code |
-| **Obscura** | Authenticated photography registry (testnet) | TypeScript |
 | [**0xDrip**](https://kieran.ai) | NFT-gated eyewear. Burn token, get glasses shipped. | Solidity, React |
 
 <!-- AUTOSTATUS:START -->
